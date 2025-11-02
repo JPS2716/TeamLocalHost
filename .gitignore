@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Build and temp files
+dist/
+tmp/
+cache/
+
+# Python cache (if you run scripts)
+__pycache__/
+
+# Model data if too large (optional)
+*.pkl
+
+# IDE / editor settings
+.vscode/
+.idea/
